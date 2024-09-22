@@ -1,4 +1,4 @@
-# DDosSecurity-Without-SourceCode-
+# DDosSecurity
 This is a simple DDoS Security Plugin for Exiled and NWAPI. [This is my last plugin for Exiled.]
 
 This plugin provides measures to mitigate certain types of DDoS attacks, helping to protect your server from overloads and lag. However, it's important to understand that no solution can offer complete immunity from all types of DDoS attacks.
